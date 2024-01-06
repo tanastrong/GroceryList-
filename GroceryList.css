@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:aliceblue;
+}
+
+h1 {color: coral;} 
+h2 {color: burlywood;}
+h3 {color:cadetblue}
+h4 {color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul ul {
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+    background-color:linen;
+    padding: 16px;}
